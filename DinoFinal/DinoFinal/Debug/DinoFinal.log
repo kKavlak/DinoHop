@@ -1,0 +1,3 @@
+﻿  DinoFinal.cpp
+C:\Users\adminyus\source\repos\DinoFinal\DinoFinal\DinoFinal.cpp(464,35): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  DinoFinal.vcxproj -> C:\Users\adminyus\source\repos\DinoFinal\Debug\DinoFinal.exe
